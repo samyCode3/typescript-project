@@ -1,5 +1,5 @@
 export default {
     port : '1337',
-    dbUri : 'mongodb://0.0.0.0:27017/api-for-ts',
+    dbUri : 'mongodb+srv://sammy:passwordqueen@cluster0.xy73drq.mongodb.net/AIProject',
     genSaltFactory : 10
 }
